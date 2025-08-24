@@ -1,0 +1,6 @@
+# Fichiers à ignorer
+node_modules/
+dist/
+.env
+.DS_Store
+Thumbs.db
